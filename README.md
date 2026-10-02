@@ -1,4 +1,4 @@
-# FERSAN INVEST – Simulador de Fundos Imobiliários
+# FERSAN INVEST – Simulador de Fundos Imobiliários (EXCEO)
 
 Planilha em Excel que simula investimentos em FIIs: do aporte mensal ao patrimônio acumulado e aos dividendos. Texto azul = editável; fundo cinza = calculado. Valores do arquivo são de exemplo.
 
